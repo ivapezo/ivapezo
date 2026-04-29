@@ -1,17 +1,4 @@
 # Hi there, I’m Iva 👋
-
-💡 **Data Scientist | ML Engineer/Researcher | Full-Stack Developer**
-
-I'm Iva, Data Scientist from  Zagreb, Croatia, currently living in Vienna, Austria.
-
----
-
-## 🔧 Tech Stack
-- **Programming Languages:** Python, R, C++, Java, SQL, JavaScript
-- **Frameworks & Tools:** React, Node.js, Docker, PostgreSQL, Pandas, scikit-learn, TensorFlow, PyTorch, TensorFlow
-- **Other Skills:** Data Analysis, Machine Learning, Cloud Deployment
-- **(Real) Languages:** English, German (work in progress), Croatian (BKS), Spanish&Italian (basic knowledge)
-
 ---
 
 ## 🚀 Featured Projects
